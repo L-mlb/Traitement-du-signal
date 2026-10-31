@@ -6,6 +6,9 @@ Ce projet explore le traitement d'un signal audio associé à un signal radioast
 
 Le projet met en œuvre des notions de traitement du signal, de communications numériques, de programmation Python et de traitement de données binaires.
 
+### Attention ! 
+Les schémas n'apparaissent pas sur github mais sont visibles en ouvrant le document sur VScode.
+
 ## Contexte
 
 Un signal atypique a été détecté par le radiotélescope décimétrique de Nançay. Voici les caractéristiques de ce signal :
@@ -30,6 +33,7 @@ Notre équipe doit donc déchiffrer ce signal et découvrir le message caché.
 ## Technologies et bibliothèques
 
 - **Python 3**
+- **Mermaid** : transformation du texte en diagrammes interactifs et visuels
 - **NumPy** : manipulation des tableaux numériques et des données binaires
 - **SciPy** : lecture et écriture WAV, filtres numériques et outils de traitement du signal
 - **Matplotlib** : tracé des signaux, spectres, spectrogrammes et diagrammes de Bode
