@@ -10,9 +10,9 @@ Le projet met en œuvre des notions de traitement du signal, de communications n
 
 Un signal atypique a été détecté par le radiotélescope décimétrique de Nançay. Voici les caractéristiques de ce signal :
 
--Le signal reçu se situe dans la raie des 21 cm du spectre électromagnétique, une fréquence particulièrement surveillée en radioastronomie.
--Ce signal a été classé comme « indéterminé » par l’algorithme
--Le signal sans traitement est très bruité lors de la première écoute
+- Le signal reçu se situe dans la raie des 21 cm du spectre électromagnétique, une fréquence particulièrement surveillée en radioastronomie.
+- Ce signal a été classé comme « indéterminé » par l’algorithme.
+- Le signal sans traitement est très bruité lors de la première écoute.
 
 Notre équipe doit donc déchiffrer ce signal et découvrir le message caché.
 
